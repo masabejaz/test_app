@@ -123,7 +123,7 @@ class MyApp extends StatelessWidget {
                             ],
                           ),
                           const Icon(
-                            Icons.keyboard_arrow_right_outlined,
+                            Icons.kebab_dining,
                           ),
                         ],
                       )
